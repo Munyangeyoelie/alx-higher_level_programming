@@ -1,2 +1,2 @@
--- Lists all rows of the table first_table in my MySQL server.
-SELECT * FROM `first_table`;
+-- Inserts a new row into the table first_table in my MySQL server.
+INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Best School");
